@@ -20,9 +20,12 @@ teste tres
 
 apguei essa alteração noGITHUB remote
 
+<<<<<<< HEAD
 vish
 
 
 
 
 
+=======
+>>>>>>> parent of beab274 (Signed-off-by: marezeus <marcelomartinsaraujo@gmail.com>)
